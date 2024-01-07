@@ -1,4 +1,4 @@
-this Translator is a user-friendly Python project that leverages the power of the Google Translate API and the simplicity of the Tkinter library to create an intuitive and interactive language translation application. This project is ideal for developers looking to build a quick and efficient translation tool with a graphical user interface.
+This Translator is a user-friendly Python project that leverages the power of the Google Translate API and the simplicity of the Tkinter library to create an intuitive and interactive language translation application. This project is ideal for developers looking to build a quick and efficient translation tool with a graphical user interface.
 
 Key Features:
 
